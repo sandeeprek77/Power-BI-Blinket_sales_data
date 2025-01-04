@@ -1,1 +1,1 @@
-# Power-BI: Blinket_sales_dashboard
+# Power-BI: Blinket_sales_analytics
